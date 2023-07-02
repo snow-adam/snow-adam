@@ -6,4 +6,4 @@
 
 <br>
 
-<a href="https://wakatime.com/@adam_snow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=adam_snow&theme=radical&custom_title=⚡&nbsp;Top&nbsp;Languages&langs_count=4&layout=compact"></a>
+<a href="https://wakatime.com/@adam_snow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=adam_snow&theme=radical&custom_title=⚡&nbsp;Top&nbsp;Languages&langs_count=8&layout=compact"></a>
